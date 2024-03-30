@@ -17,7 +17,7 @@ This project aims to predict the risk of hypertension in individuals based on va
 
 
 # Dependencies
-- Python 3.x
+- Python,VScode
 - Libraries: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Imbalanced-learn, Joblib, Tkinter
 
 
